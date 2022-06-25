@@ -11,6 +11,7 @@ function MyApp({ Component, pageProps }) {
   return (
     <>
       <Head>
+        <meta name="clckd" content="6e15d0fab6646e65e0cbf908cc00a97f" />
         <meta charSet='utf-8' />
         <meta httpEquiv='X-UA-Compatible' content='IE=edge' />
         <meta name='apple-mobile-web-app-capable' content='yes' />
